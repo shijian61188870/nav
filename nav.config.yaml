@@ -34,7 +34,7 @@ password: admin
 port: 7777
 
 # 收录通知邮箱
-email: 'shijian61188870@gmail.com'
+email: ''
 
 # 自有部署邮件通知系统
 mailConfig:
